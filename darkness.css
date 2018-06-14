@@ -26,6 +26,12 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .bullet { color: #949494; }
 
+#col_flex {
+    background: #1A1C1F;
+    display: none;
+    margin-top: 8px;
+}
+
 .c-message--light .c-message__sender .c-message__sender_link { color: #ff9000; }
 
 .alert { background-color: #363636; border-color: #000; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
