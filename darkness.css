@@ -32,7 +32,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #949494; }
     margin-top: 8px;
 }
 
-.c-message--light .c-message__sender .c-message__sender_link { color: #ff9000; }
+.c-message--light .c-message__sender .c-message__sender_link { color: #949494; }
 
 .alert { background-color: #363636; border-color: #000; color: #949494; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
 
